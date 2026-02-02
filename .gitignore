@@ -1,0 +1,12 @@
+obj_dir/
+
+build/
+*.o
+*.elf
+*.bin
+*.hex
+*.mem
+*.dump
+*.tmp
+
+config.mk
